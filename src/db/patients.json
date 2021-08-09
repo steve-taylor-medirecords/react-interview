@@ -3,18 +3,18 @@
         "id": "1",
         "firstName": "Jane",
         "lastName": "Citizen",
-        "dob": "1989-02-27"
+        "dateOfBirth": "1989-02-27"
     },
     {
         "id": "2",
         "firstName": "Fred",
         "lastName": "Smith",
-        "dob": "1972-04-01"
+        "dateOfBirth": "1972-04-01"
     },
     {
         "id": "3",
         "firstName": "Rui",
         "lastName": "Xiang",
-        "dob": "1999-12-03"
+        "dateOfBirth": "1999-12-03"
     }
 ]
